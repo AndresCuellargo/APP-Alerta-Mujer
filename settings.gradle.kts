@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "alertaMujer"
 include(":app")
- 
+
+
+YOLO badge attempt 🤪
